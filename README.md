@@ -1,2 +1,2 @@
 # Cool-python-stuff
-naem speaks for itself
+name speaks for itself
